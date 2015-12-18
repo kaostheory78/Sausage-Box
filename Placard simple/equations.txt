@@ -1,0 +1,27 @@
+﻿"EpaisseurPlaque"= 10
+
+"ProfondeurPlacard"=580
+"LargeurPlacard"=160+70+135
+"DistanceAvantSyphon"=240
+"DistanceAvantEvier"=100
+
+"DiametreTuyau"=90
+"HauteurTuyau"=430
+
+"LargeurAeration"=260
+"HauteurAeration"=340
+"AerationSol"=210
+"AerationAvant"=270
+
+"ProfondeurCharniere"=80
+"HauteurCharniere"=60
+"LargeurCharniere"=60
+
+"HauteurPlacard"=650
+"HauteurEvier"="HauteurPlacard"-555
+"HauteurDroitEvier"="HauteurPlacard" -500
+"HauteurSolSyphon"=320
+"DiametreSyphon"=70
+
+"PositionSyphonCoteGauche"=160
+

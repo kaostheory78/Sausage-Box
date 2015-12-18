@@ -1,0 +1,11 @@
+﻿"EpaisseurPlaque"= 3
+"ProfondeurBoite"=460
+"LongueurSyphon"=170
+"LargeurSyphon"=120
+"HauteurCoteDroit"= 490
+"HauteurCoteGauche"= 540
+"HauteurSolSyphon"= 300
+"HauteurSyphon"="HauteurCoteGauche"-"HauteurSolSyphon"
+"LargeurDroite"=10
+"LargeurGauche"=150
+"LargeurBoite"= "LargeurDroite" + "LargeurGauche" + "LargeurSyphon"

@@ -1,0 +1,6 @@
+﻿"DiametreSyphon"=50
+"HauteurSyphon"=240
+"HauteurPlacard" = 550
+"LargeurPlacard"=360
+"ProfondeurPlacard"=520
+"EpaisseurPlaque"= 10
