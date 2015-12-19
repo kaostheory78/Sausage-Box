@@ -7,5 +7,5 @@
 "HauteurSolSyphon"= 300
 "HauteurSyphon"="HauteurCoteGauche"-"HauteurSolSyphon"
 "LargeurDroite"=10
-"LargeurGauche"=150
+"LargeurGauche"=130
 "LargeurBoite"= "LargeurDroite" + "LargeurGauche" + "LargeurSyphon"
